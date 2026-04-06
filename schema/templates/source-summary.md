@@ -2,8 +2,8 @@
 title: ""
 type: source-summary
 date: YYYY-MM-DD
-source_path: raw/processed/
-source_kind: article
+source_path: raw/sources/YYYY/<source-id>/original.*
+source_kind: web
 status: active
 tags: []
 related_pages: []
@@ -15,6 +15,11 @@ related_pages: []
 - 
 
 # Evidence / Notes
+- 
+
+# Why It Matters
+
+# Open Questions
 - 
 
 # Related Pages

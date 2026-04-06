@@ -1,19 +1,16 @@
-# Knowledge Wiki Rules
+# knowledge-wiki project instructions
 
-이 저장소는 지속적으로 관리되는 개인 지식 위키다.
+This repository stores source evidence in `raw/` and synthesized knowledge in `wiki/`.
 
-우선 읽을 파일:
-1. schema/wiki-conventions.md
-2. schema/workflows.md
-3. wiki/index.md
+When a URL is provided:
+1. Use the `ingest-url` skill.
+2. Capture the source into `raw/sources/YYYY/<source-id>/`.
+3. Create or update `wiki/sources/YYYY/<slug>.md`.
+4. Update related topic or project pages.
+5. Update `wiki/index.md` and `wiki/log.md`.
 
-규칙:
-- `raw/`는 원본 자료이며 수정하지 않는다.
-- `wiki/`는 정제된 지식 레이어다.
-- 새 자료를 ingest할 때는 반드시 아래를 갱신한다:
-  - source summary 1개 이상
-  - `wiki/index.md`
-  - `wiki/log.md`
-  - 관련 topic/entity/project 페이지
-- 충돌하는 내용은 `wiki/dashboards/contradictions.md`에 기록한다.
-- 삭제보다 deprecated 표기를 우선한다.
+Rules:
+- raw is evidence, wiki is synthesis
+- do not modify raw content after capture
+- prefer updating existing pages over creating near-duplicates
+- record unresolved conflicts in `wiki/dashboards/contradictions.md`

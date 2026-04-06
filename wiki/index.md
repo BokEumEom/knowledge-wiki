@@ -4,17 +4,14 @@
 - [Open Questions](dashboards/open-questions.md)
 - [Contradictions](dashboards/contradictions.md)
 
+## Sources
+- 아직 없음
+
 ## Topics
-- [Claude Code](topics/claude-code.md)
-- [Codex](topics/codex.md)
+- 아직 없음
 
 ## Projects
-- [knowledge-wiki](projects/knowledge-wiki.md)
-
-## Sources
-- [LLM Wiki](sources/2026/karpathy-llm-wiki.md)
-- [Claude Code Settings and Skills](sources/2026/claude-code-settings-and-skills.md)
-- [Codex AGENTS and Skills](sources/2026/codex-agents-and-skills.md)
+- 아직 없음
 
 ## Answers
 - 아직 없음

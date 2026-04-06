@@ -1,9 +1,3 @@
 # Log
 
-- 2026-04-06: repository initialized
-- 2026-04-06: added Codex skills for ingest-source, answer-query, and lint-wiki
-- 2026-04-06: added topic pages for Claude Code and Codex
-- 2026-04-06: updated project page and wiki index
-- 2026-04-06: ingested source summary for Karpathy's LLM Wiki
-- 2026-04-06: ingested source summary for Claude Code settings and skills
-- 2026-04-06: ingested source summary for Codex AGENTS.md and skills
+- 2026-04-06: repository reinitialized with agent-first structure

@@ -1,11 +1,17 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
     "allow": [
-      "Read",
-      "Write",
-      "Edit",
-      "Glob",
-      "LS"
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(./secrets/**)"
     ]
   }
 }

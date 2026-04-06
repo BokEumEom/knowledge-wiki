@@ -1,6 +1,6 @@
 ---
 title: ""
-type: topic
+type: project
 status: active
 updated: YYYY-MM-DD
 tags: []
@@ -9,12 +9,11 @@ sources: []
 
 # Overview
 
-# Current Understanding
+# Goal
 
-# Key Sources
-- 
+# Current Status
 
-# Open Questions
+# Next Actions
 - 
 
 # Related Pages
