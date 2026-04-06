@@ -24,3 +24,5 @@ Codex의 AGENTS.md, skills, subagent 활용 방식을 정리하는 페이지.
 # Related Pages
 - [[../projects/knowledge-wiki.md]]
 - [[claude-code.md]]
+- [[../sources/2026/codex-agents-and-skills.md]]
+- [[../sources/2026/karpathy-llm-wiki.md]]

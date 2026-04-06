@@ -24,3 +24,5 @@ Claude Code 관련 구조, 설정, memory, skills, subagents, workflow를 정리
 # Related Pages
 - [[../projects/knowledge-wiki.md]]
 - [[codex.md]]
+- [[../sources/2026/claude-code-settings-and-skills.md]]
+- [[../sources/2026/karpathy-llm-wiki.md]]
