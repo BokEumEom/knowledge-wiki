@@ -5,12 +5,14 @@
 - [Contradictions](dashboards/contradictions.md)
 
 ## Topics
-- [AI Agents](topics/ai-agents.md)
-- [DevOps Platform](topics/devops-platform.md)
-- [EV Charging](topics/ev-charging.md)
+- [Claude Code](topics/claude-code.md)
+- [Codex](topics/codex.md)
 
 ## Projects
 - [knowledge-wiki](projects/knowledge-wiki.md)
 
 ## Sources
-- [LLM Wiki - Karpathy](sources/2026/llm-wiki-karpathy.md)
+- 아직 없음
+
+## Answers
+- 아직 없음
